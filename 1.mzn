@@ -1,9 +1,3 @@
-/**
-  Practical Exercise Sheet 1
-  Exercise Q1
-  [(P ∨ Q) ↔ ¬ (R ∨ S)] ∧ [¬ (P ∧ Q) ∧ (R ∧ ¬S)]
-**/
-
 % variables
 var bool: P;
 var bool: Q;
